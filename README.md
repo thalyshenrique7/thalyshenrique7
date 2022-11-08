@@ -2,6 +2,10 @@
   <h1>Hello, welcome to my profile!</h1>  
 </div>
 
+<div>
+  <p>I'm analysis and development systems student, back-end at Software Factory, I work with tools: Python, Django REST Framework and GitLab, I'm learning Java and Spring Boot.</p>
+</div>
+
 <div align="center">
   <a href="https://github.com/ThalysHenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
