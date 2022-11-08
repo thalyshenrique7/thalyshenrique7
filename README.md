@@ -1,4 +1,6 @@
-### Hello, welcome to my profile!
+<div align="center">
+  ### Hello, welcome to my profile!  
+</div>
 
 <div align="center">
   <a href="https://github.com/ThalysHenrique">
