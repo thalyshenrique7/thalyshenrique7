@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hello, welcome to my profile!</h1>  
+  <h1>Olá, bem vindo ao meu perfil!</h1>  
 </div>
 
 <div>
-  <p>I'm analysis and development systems student, back-end at Software Factory, I work with tools: Python, Django REST Framework and GitLab, I'm learning Java and Spring Boot.</p>
+  <p>Olá, tudo bem? estudo programação desde janeiro/2022, desde o 1º período da faculdade atuo como back-end no projeto de extensão Fábrica de Software, participo de dailys meets, sprints, reuniões com o cliente e equipe em geral. Participei de um projeto com a Polícia Militar da Paraíba para criação de uma aplicação (rede social privada) para os Policiais, e atualmente estou participando de outro projeto com a PMPB. Tenho conhecimentos em HTML, CSS, Java, Spring Boot, Python, Django REST Framework, Git e Inglês.</p>
 </div>
 
 <div align="center">
