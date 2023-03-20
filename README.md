@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Olá, bem-vindo ao meu perfil!</h1>  
-</div>
+## What's up, dev? Welcome to my profile! 
 
 <div align="center">
   <a href="https://github.com/ThalysHenrique">
