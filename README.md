@@ -23,5 +23,3 @@
   <a href="https://www.linkedin.com/in/thalyshenrique7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato_devthalys@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-  
-  ![Snake animation](https://github.com/ThalysHenrique/ThalysHenrique/blob/output/github-contribution-grid-snake.svg)
