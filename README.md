@@ -1,4 +1,4 @@
-## What's up, dev? Welcome to my profile! 
+## What's up, dev? I'm Thalys! 
 
 <div align="center">
   <a href="https://github.com/ThalysHenrique">
