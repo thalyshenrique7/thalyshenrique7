@@ -1,4 +1,6 @@
+
 ## What's up, dev? I'm Thalys! 
+
 
 <div align="center">
   <a href="https://github.com/ThalysHenrique">
@@ -7,6 +9,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img align="left" height="250" alt="coding-time" src="code.gif">
   <img align="center" alt="Thalys-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Thalys-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Thalys-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
