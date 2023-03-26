@@ -1,5 +1,5 @@
 
-<div align="center"><h2>Seja Bem-Vindo, sou Thalys Henrique! :computer:</h2></div>
+<div align="center"><h2>Olá, sou Thalys Henrique!</h2></div>
 
 
 <div align="center">
