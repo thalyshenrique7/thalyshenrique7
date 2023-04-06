@@ -1,7 +1,7 @@
 
 <div align="center"><h2>Olá, sou Thalys Henrique!</h2></div>
 
-<div align="center"><h3>Desenvolvedor Java</h3></div>
+<div align="center"><h2>Desenvolvedor Java</h2></div>
 
 <div align="center"><p>Sou muito bom em resolver problemas, inclusive amo isso. A sensação de ter ajudado alguém, seja em problemas simples ou mais complexos me faz se sentir bem, e poder fazer isso com a programação não tem preço. Sendo assim, estou me especializando em Java e Spring Boot com cursos e projetos pessoais, sempre buscando as melhores formas de desenvolver um projeto com qualidade e segurança. Também possuo conhecimentos em MySQL. Entretanto, estou sempre disposto a novos desafios.
 </p></div>
