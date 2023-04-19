@@ -3,7 +3,7 @@
 
 <div align="center"><h4>Desenvolvedor Java</h4></div>
 
-<div align="center"><p>Sou muito bom em resolver problemas e gosto disso, alinhado a minha curiosidade sobre as coisas novas me faz querer estar em constante evolução. Estou me especializando em Java e Spring Boot com suas dependências: Spring Web, Spring Validation, Spring Security, Spring Data Jpa, realizando cursos e projetos pessoais, sempre buscando as melhores formas de desenvolver um projeto com qualidade e segurança. Também possuo conhecimentos em bancos de dados relacionais MySQL e não relacionais MongoDB. Entretanto, estou sempre disposto a novos desafios.
+<div align="center"><p>Sou muito bom em resolver problemas e gosto disso, alinhado a minha curiosidade sobre coisas novas me faz querer estar em constante evolução. Estou me especializando em Java e Spring Boot com suas dependências: Spring Web, Spring Validation, Spring Security, Spring Data Jpa, realizando cursos e projetos pessoais, sempre buscando as melhores formas de desenvolver um projeto com qualidade e segurança. Também possuo conhecimentos em bancos de dados relacionais MySQL e não relacionais MongoDB. Entretanto, estou sempre disposto a novos desafios.
 </p></div>
 
 <div align="center">
