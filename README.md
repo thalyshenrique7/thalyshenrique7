@@ -26,5 +26,5 @@
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/thalyshenrique7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato_devthalys@hotmail.com"><img height="28" weight="15" src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato_devthalys@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
