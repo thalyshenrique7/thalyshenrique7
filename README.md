@@ -1,6 +1,3 @@
-
-<div align="center"><h2>Olá, sou Thalys Henrique!</h2></div>
-
 <div align="center"><h4>Desenvolvedor Java</h4></div>
 
 <div align="center">
