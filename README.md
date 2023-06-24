@@ -1,4 +1,4 @@
-<div align="center"><h3>Desenvolvedor Back-end Java</h3></div>
+<div align="center"><h3>Desenvolvedor Java</h3></div>
 
 <div align="center">
   <a href="https://github.com/thalyshenrique7">
