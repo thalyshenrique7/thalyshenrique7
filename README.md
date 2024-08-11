@@ -1,4 +1,9 @@
-+ 👋 Hi, I'm @thalyshenrique7
-+ 👀 I'm interested in web development
-+ 🌱 I'm currently to improve my skills in Java, Spring Boot, SQL and more
-+ 📫 Send message for me in https://www.linkedin.com/in/thalyshenrique7/
+- Software Developer at VarejOnline 
+- Graduado em Análise e desenvolvimento de sistemas na Unipê
+
+Conhecimentos técnicos:
+- Java, Typescript
+- Spring, Angular, Quarkus, JUnit, Mockito, Selenium, Flyway, Liquibase
+- MySQL, PostgreSQL, Oracle Database, MongoDB
+- Maven
+- Scrum, Kanban
