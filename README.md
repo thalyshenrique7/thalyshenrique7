@@ -5,5 +5,6 @@ Conhecimentos técnicos:
 - Java, Typescript
 - Spring, Angular, Quarkus, JUnit, Mockito, Selenium, Flyway, Liquibase
 - MySQL, PostgreSQL, Oracle Database, MongoDB
-- Maven
+- Kafka
+- Maven, Gradle
 - Scrum, Kanban
