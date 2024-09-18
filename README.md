@@ -1,7 +1,7 @@
 - Software Developer at VarejOnline 
-- Graduado em Análise e desenvolvimento de sistemas na Unipê
+- Graduated in Systems analysis development at Unipe
 
-Conhecimentos técnicos:
+Knowledges:
 - Java, Kotlin, Typescript
 - Spring, Angular, Quarkus, Micronaut, JUnit, Mockito, Selenium, Flyway, Liquibase
 - MySQL, PostgreSQL, Oracle Database, MongoDB
