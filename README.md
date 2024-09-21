@@ -1,9 +1,10 @@
 - Software Developer at VarejOnline 
 - Graduated in Systems analysis development at Unipe
 
-Knowledge:
+Technical Abilities:
 - Java, Kotlin, Typescript
 - Spring, Angular, Quarkus, Micronaut, JUnit, Mockito, Selenium, Flyway, Liquibase
 - MySQL, PostgreSQL, Oracle Database, MongoDB
-- Maven
+- Apache Kafka
+- Maven, Gradle
 - Scrum, Kanban
