@@ -3,7 +3,7 @@
 
 Technical Abilities:
 - Java, Kotlin, Typescript
-- Spring, Angular, Quarkus, Micronaut, JUnit, Mockito, Selenium, Flyway, Liquibase
+- Spring, Angular, Quarkus, Micronaut, JUnit, Mockito, Flyway, Liquibase
 - MySQL, PostgreSQL, Oracle Database, MongoDB
 - Apache Kafka
 - Maven, Gradle
