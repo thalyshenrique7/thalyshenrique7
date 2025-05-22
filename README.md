@@ -13,7 +13,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thalyshenrique7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##### Since 2022, I’ve been working as a software developer. I have a degree in Systems Analysis and Development. I'm currently focused on improving my skills in web development using Java, Spring, SQL, and message brokers like RabbitMQ.
+#### Since 2022, I’ve been working as a software developer. I have a degree in Systems Analysis and Development. I'm currently focused on improving my skills in web development using Java, Spring, SQL, and message brokers like RabbitMQ.
 
-##### Where do you find me? :mag:
+#### Where do you find me? :mag:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thalyshenrique7) 
